@@ -4,17 +4,16 @@
   padding: 20px;
   align-items: center;
   justify-content: space-between;
-  background-color: black;
   overflow-x: scroll;
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
-.example::-webkit-scrollbar {
+.header::-webkit-scrollbar {
   display: none;
 }
 
 /* Hide scrollbar for IE, Edge and Firefox */
-.example {
+.header {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }

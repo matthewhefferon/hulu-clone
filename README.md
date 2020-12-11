@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# HULU Clone
+
+Demo: https://hulu-clone-a707f.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

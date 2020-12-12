@@ -2,7 +2,7 @@
 
 Demo: https://hulu-clone-a707f.web.app/
 
-
+![hulu clone](https://user-images.githubusercontent.com/4500215/101992475-d3105a00-3c70-11eb-80e8-bd0fa46b09ff.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
